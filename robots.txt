@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /about/
+Disallow: /publications/
+Disallow: /timeline/
+
+Sitemap: https://hexiang-hu.github.io/sitemap.xml
