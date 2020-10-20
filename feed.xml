@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hexiang Hu</title>
+    <title>Yen-Yu Chang</title>
     <description>{&quot;en&quot;=&gt;&quot;This is an academic website for Yen-Yu Chang to share his experiences, projects, and publications.&quot;}</description>
     <link>https://yuyuchang.github.io/</link>
     <atom:link href="https://yuyuchang.github.io/feed.xml" rel="self" type="application/rss+xml"/>
