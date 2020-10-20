@@ -7,7 +7,7 @@
 
     <title> Binary Image Selection (BISON) Project </title>
     <link rel="shortcut icon" href="assets/image/favicon.ico" type="image/x-icon">
-    <link href="http://hexiang-hu.github.io/css/main.css" rel="stylesheet">
+    <link href="http://yuyuchang.github.io/css/main.css" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="assets/css/style.css" rel="stylesheet">
 

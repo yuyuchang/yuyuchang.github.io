@@ -3,4 +3,4 @@ Disallow: /about/
 Disallow: /publications/
 Disallow: /timeline/
 
-Sitemap: https://hexiang-hu.github.io/sitemap.xml
+Sitemap: https://yuyuchang.github.io/sitemap.xml

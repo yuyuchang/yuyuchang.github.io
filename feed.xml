@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hexiang Hu</title>
-    <description>{&quot;en&quot;=&gt;&quot;This is an academic website for Hexiang Hu to share his experiences, projects, publications and tech/non-tech posts. Hexiang Hu is a Ph.D. student at University of California Los Angeles(UCLA), working with Prof. Fei Sha. His research interests lie in the field of Machine Learning and Computer Vison, particularly in Deep Learning. &quot;, &quot;cn&quot;=&gt;&quot;这是胡鹤翔的个人学术主页，用于分享他的个人经历，项目，学术论文，技术相关/不相关的博客。&quot;}</description>
-    <link>https://hexiang-hu.github.io/</link>
-    <atom:link href="https://hexiang-hu.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>{&quot;en&quot;=&gt;&quot;This is an academic website for Yen-Yu Chang to share his experiences, projects, and publications.&quot;}</description>
+    <link>https://yuyuchang.github.io/</link>
+    <atom:link href="https://yuyuchang.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <pubDate>Sat, 10 Oct 2020 03:18:16 +0000</pubDate>
     <lastBuildDate>Sat, 10 Oct 2020 03:18:16 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
